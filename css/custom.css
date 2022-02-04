@@ -1,0 +1,406 @@
+
+.padding_icon{
+    padding-right: 10px;
+}
+.header{
+    background-color: #343A40;
+    color: white;
+}
+.aStyle{
+    color: white;
+    font-weight:600;
+}
+.img-cro{
+  
+    /* filter: grayscale(20%); */
+    background-position: center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    
+}
+.imgOne{
+    background-image: url('../images/iti1.jpg');
+   
+}
+.imgTwo{
+    background-image: url('../images/iti2.jpg');
+}
+.imgThree{
+    background-image: url('../images/iti3.jpg');
+}
+.imgFour{
+    background-image: url('../images/iti4.jpg');
+}
+.imgFive{
+    background-image: url('../images/iti5.jpg');
+}
+.aStyle:hover{
+    color: #6E6656;
+}
+.div-top{
+    margin-top: 50px;
+}
+
+.aStyletwo{
+    color:#6C757D;
+    font-weight:400; 
+    font-size: 22px;
+}
+.aStyletwo:hover{
+    color: darkred;
+}
+.text-carousel{
+    padding-top: 15%;
+  
+}
+.text-ca{
+    color: white; 
+    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Outfit', sans-serif;
+    padding-left: 10%;
+    padding-right: 2%;
+
+    
+}
+.overlay--dark {
+    position: relative;
+}
+
+.ground_one{
+    background-color: #1C313D;
+}
+.ground_two{
+    background-color: #203947;
+}
+.ground_three{
+    background-color: #254252;
+}
+.ground_four{
+    background-color: #294A5C;
+}
+.txt_style{
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+
+}
+.txt_style:hover{
+    color: gray;
+}
+.txt_style i{
+    font-size: 35px;
+}
+
+.txt-two{
+    font-family: 'Lobster', cursive;
+    color:#901B20;
+    font-size: 50px;
+
+}
+.img-two{
+    width: 100%;
+    height: 30rem;
+    background-size: cover;
+    background-position: 50%;
+
+
+}
+.link_all{
+    transition: all .4s ease-in-out;
+
+}
+.link_all:hover{
+    transform: scale(1.1);
+
+}
+.txt_ab{
+    padding-top: 1.6rem;
+    text-decoration:none;
+    color: black;
+    font-size: 16px;
+}
+.txt_ab:hover{
+    color: #901B20;
+    text-decoration: underline;
+}
+.span_ab{
+    background-color: #901b20;
+    color: #f0f3f4;
+    font-size: 1.2rem;
+    line-height: 1.44rem;
+    letter-spacing: .04rem;
+    padding: 5px;
+    font-weight: 500;
+    font-family: sans-serif;
+    word-spacing: 0;
+}
+.span-C{
+    background-color: #901b20;
+    color: #f0f3f4;
+    font-size: 15px;
+    line-height: 1.44rem;
+    letter-spacing: .04rem;
+    padding: 2px;
+    font-weight: 500;
+    font-family: sans-serif;
+    word-spacing: 0;
+}
+
+.span-ab_two{
+    font-family: Poppins,sans-serif;
+    font-size: 1rem;
+    line-height: 1.68rem;
+    font-weight: 300;
+    letter-spacing: .025rem;
+    word-spacing: 0;
+    color: #495057;
+}
+.img-style{
+    padding: 10px;
+    transition: all .4s ease-in-out;    
+}
+.img-style:hover{
+    transform: scale(1.1);
+
+}
+.txt-section{
+    font-size: 13px;
+    color: #294A5C;
+    font-weight: 500;
+    padding-top: 3px;
+}
+.row-img{
+    background-image: url('../images/blur.jpg');
+     background-size: cover;
+     background-position: center;
+     padding:30px ;
+}
+.span-d{
+    padding: 0;
+    margin: 0;
+    color: #495057;
+    font-family: Poppins,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: .025rem;
+    word-spacing: 0;
+    padding-top: 0
+
+}
+.txt-i {
+    color: white;
+    padding-top: 13%;
+    padding-left: 1%;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    
+} 
+.td-img{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    
+}
+.lineHeight{
+    line-height: 15px;
+}
+.lineHeightTwo{
+    line-height: 21px;
+}
+.big-icon{
+font-size: 40px;
+}
+.a-color{
+    color: #901b20;
+    text-decoration: none;
+}
+.a-color:hover{
+    color: #901b20;
+    text-decoration: underline #901b20
+
+}
+.square {
+    height: 90%;
+    width: 100%;
+    border: #294A5C 2px solid;
+    text-align: center;
+  }
+.img-m{
+      margin-bottom: 10px;
+      padding-top: 20px;
+  }
+.p-square{
+font-size: 25px;
+color: #294A5C;
+}  
+.p-2-square{
+    color:#294A5C ;
+}
+.sq-p{
+    font-weight: 600;
+}
+.icon-tran{
+    font-size: 30px;
+    padding-left:70%;
+    color:#294A5C ;
+    font-weight: bold;
+    transition: padding 2s;
+
+}
+.icon-tran:hover{
+    padding-left: 100%;
+}
+.back-pad{
+    background-color:   #F5F5F5;
+    
+}
+.span-icon{
+    color: #6C757D;
+    padding-left: 4%;
+    font-size: 25px;
+}
+.col-icon{
+    color:  #6C757D;
+}
+.txt-pad{
+    padding-top: 20px;
+}
+.box-grey{
+    background-color: #F5F5F5;
+    height:95px;
+    width: 100%;
+    padding-top: 2%;
+
+}
+.ico-box{
+    color: #901b20 ;
+    padding-right: 3%;
+}
+.txt-box{
+    color: #294A5C;
+}
+section{
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+#section-one{
+    background-color: #F5F5F5;
+    padding-bottom: 5%;
+
+}
+#section-two{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+#section-four{
+    background-color: #F5F5F5;
+
+}
+
+footer{
+    background-color: #212529;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+.footer-header{
+    color: white;
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+.footer-icon{
+    color: #E2E3E3;
+}
+.footer-span{
+    color: #E2E3E3;
+}
+.footer-span:hover{
+    color: gray;
+}
+.footer-txt-pad{
+    padding-top: 10px;
+}
+
+.footer-icon-two{
+    font-size: 35px;
+    padding-top: 9px;
+}
+
+.circle{
+    border-radius: 50%;
+    width:50px;
+    height: 50px;
+    text-align: center;
+    margin-left: 2%;
+    display: inline-block;
+
+}
+.circle-facebook{
+    background-color:white;
+    color: #3B5A9A;  
+
+}
+.circle-facebook:hover{
+background-color:#3B5A9A ;
+color: white;
+
+}
+.circle-tiw{
+    background-color:white;
+    color: #1aa9e1;
+
+}
+.circle-tiw:hover{
+    background-color: #1aa9e1;
+    color: white;
+}
+.circle-you{
+    background-color: #c3191e;
+    color: white;
+}
+.circle-you:hover{
+    background-color: white;
+    color: #c3191e;
+}
+.footer-pd{
+    padding-top: 20px;
+}
+.div-market{
+    background-image: url(../images/market.jpg);
+    background-position: center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    width: 100%;
+}
+.image-circle{
+    width:290px;
+    border: white 4px dotted;
+  
+
+}
+.txt-cor{
+color: white;
+font-family:Great Vibes,cursive;
+font-size: 20px;
+
+}
+.div-img-cri{
+    transform: translate(30%, -10%);
+}
+.div-txt-cri{
+    text-align: center;
+
+}
+.txt-two-cri{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+
